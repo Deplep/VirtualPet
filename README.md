@@ -23,8 +23,7 @@ Note: The following Processing functions do not work on the web:
 
 Samples of Student Work
 -----------------------
-fill(200, 200, 200);
-rect(500, 500, 500, 500);
+
 
 [Johnny](https://jlin202.github.io/VirtualPet/)   
 [Tiffany](https://tiffanyt11.github.io/VirtualPet/)   
