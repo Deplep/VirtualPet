@@ -129,7 +129,7 @@ void setup()
   line(401, 55, 442, 56);
 
   fill(0, 0, 0);
-  text("design is from The-Fancy-Space", 200, 550);
+  text("Design is from The-Fancy-Space", 200, 550);
 }
 
 void draw(){
