@@ -33,7 +33,7 @@ Samples of Student Work
 //design by The-Fancy-Space
 void setup()
 {
-  size(600, 600);
+  //size(600, 600);
   line(170, 500, 200, 472.5);
   line(170, 500, 201, 443);
   line(200, 472.5, 204, 420);
