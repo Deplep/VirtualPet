@@ -127,6 +127,9 @@ void setup()
   line(373, 159, 399, 82);
   line(399, 82, 442, 56);
   line(401, 55, 442, 56);
+
+  fill(0, 0, 0);
+  text("design is from The-Fancy-Space", 200, 550);
 }
 
 void draw(){
